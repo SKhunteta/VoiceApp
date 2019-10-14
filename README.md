@@ -1,0 +1,1 @@
+This is a repository for a burgeoning, currently unnamed and open source voice-based application. Throughout the life of this project, we will be uploading interviews conducted, survey results, briefs, personas, mockups, prototypes and so on.
